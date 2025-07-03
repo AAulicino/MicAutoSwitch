@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MicManager.UI/MicManager.UI.csproj" />
+  <Project Path="MicManager.UI/MicManager.AudioCore.csproj" />
+  <Project Path="MicManager.UI/MicManager.Windows.csproj" />
+</Solution>
